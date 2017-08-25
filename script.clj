@@ -1,0 +1,1 @@
+lein repl :connect 192.168.0.20:7888
